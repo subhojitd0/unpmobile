@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="AppiumBootstrap2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/node_modules/appium/node_modules/appium-uiautomator/test/fixtures/AppiumBootstrap.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

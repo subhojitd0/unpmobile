@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="jars">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/node_modules/appium/node_modules/appium-adb/jars/appium_apk_tools.jar!/" />
+      <root url="jar://$PROJECT_DIR$/node_modules/appium/node_modules/appium-adb/jars/unsign.jar!/" />
+      <root url="jar://$PROJECT_DIR$/node_modules/appium/node_modules/appium-adb/jars/appium_apk_tools_1.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/node_modules/appium/node_modules/appium-adb/jars/move_manifest.jar!/" />
+      <root url="jar://$PROJECT_DIR$/node_modules/appium/node_modules/appium-adb/jars/sign.jar!/" />
+      <root url="jar://$PROJECT_DIR$/node_modules/appium/node_modules/appium-adb/jars/verify.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

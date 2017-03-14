@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="UICatalog">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/node_modules/appium/sample-code/apps/UICatalog.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

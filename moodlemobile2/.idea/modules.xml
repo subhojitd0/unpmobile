@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/platforms/android/CordovaLib/CordovaLib.iml" filepath="$PROJECT_DIR$/platforms/android/CordovaLib/CordovaLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/node_modules/appium/sample-code/apps/ToggleTest/ToggleTest.iml" filepath="$PROJECT_DIR$/node_modules/appium/sample-code/apps/ToggleTest/ToggleTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/platforms/android/android.iml" filepath="$PROJECT_DIR$/platforms/android/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/node_modules/appium/node_modules/appium-uiautomator2-server/app/src/androidTestE2eTest/androidTestE2eTest.iml" filepath="$PROJECT_DIR$/node_modules/appium/node_modules/appium-uiautomator2-server/app/src/androidTestE2eTest/androidTestE2eTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/node_modules/appium/node_modules/appium-uiautomator2-server/app/src/androidTestServer/androidTestServer.iml" filepath="$PROJECT_DIR$/node_modules/appium/node_modules/appium-uiautomator2-server/app/src/androidTestServer/androidTestServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/node_modules/appium/node_modules/appium-android-ime/appium-android-ime.iml" filepath="$PROJECT_DIR$/node_modules/appium/node_modules/appium-android-ime/appium-android-ime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/node_modules/appium/node_modules/appium-unlock/appium-unlock.iml" filepath="$PROJECT_DIR$/node_modules/appium/node_modules/appium-unlock/appium-unlock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/node_modules/appium/node_modules/appium-android-bootstrap/bootstrap/bootstrap.iml" filepath="$PROJECT_DIR$/node_modules/appium/node_modules/appium-android-bootstrap/bootstrap/bootstrap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/platforms/android/CordovaLib/build/generated/source/buildConfig/buildConfig.iml" filepath="$PROJECT_DIR$/platforms/android/CordovaLib/build/generated/source/buildConfig/buildConfig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/platforms/android/build/generated/source/buildConfig/buildConfig1.iml" filepath="$PROJECT_DIR$/platforms/android/build/generated/source/buildConfig/buildConfig1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugins/ch.ti8m.documenthandler/src/ch.ti8m.documenthandler.iml" filepath="$PROJECT_DIR$/plugins/ch.ti8m.documenthandler/src/ch.ti8m.documenthandler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugins/cordova-plugin-camera/src/cordova-plugin-camera.iml" filepath="$PROJECT_DIR$/plugins/cordova-plugin-camera/src/cordova-plugin-camera.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugins/cordova-plugin-compat/src/cordova-plugin-compat.iml" filepath="$PROJECT_DIR$/plugins/cordova-plugin-compat/src/cordova-plugin-compat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugins/cordova-plugin-customurlscheme/src/cordova-plugin-customurlscheme.iml" filepath="$PROJECT_DIR$/plugins/cordova-plugin-customurlscheme/src/cordova-plugin-customurlscheme.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugins/cordova-plugin-device/src/cordova-plugin-device.iml" filepath="$PROJECT_DIR$/plugins/cordova-plugin-device/src/cordova-plugin-device.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugins/cordova-plugin-file/src/cordova-plugin-file.iml" filepath="$PROJECT_DIR$/plugins/cordova-plugin-file/src/cordova-plugin-file.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugins/cordova-plugin-file-transfer/src/cordova-plugin-file-transfer.iml" filepath="$PROJECT_DIR$/plugins/cordova-plugin-file-transfer/src/cordova-plugin-file-transfer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugins/cordova-plugin-globalization/src/cordova-plugin-globalization.iml" filepath="$PROJECT_DIR$/plugins/cordova-plugin-globalization/src/cordova-plugin-globalization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugins/cordova-plugin-inappbrowser/src/cordova-plugin-inappbrowser.iml" filepath="$PROJECT_DIR$/plugins/cordova-plugin-inappbrowser/src/cordova-plugin-inappbrowser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugins/cordova-plugin-local-notifications-mm/src/cordova-plugin-local-notifications-mm.iml" filepath="$PROJECT_DIR$/plugins/cordova-plugin-local-notifications-mm/src/cordova-plugin-local-notifications-mm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugins/cordova-plugin-media-capture/src/cordova-plugin-media-capture.iml" filepath="$PROJECT_DIR$/plugins/cordova-plugin-media-capture/src/cordova-plugin-media-capture.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugins/cordova-plugin-network-information/src/cordova-plugin-network-information.iml" filepath="$PROJECT_DIR$/plugins/cordova-plugin-network-information/src/cordova-plugin-network-information.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugins/cordova-plugin-splashscreen/src/cordova-plugin-splashscreen.iml" filepath="$PROJECT_DIR$/plugins/cordova-plugin-splashscreen/src/cordova-plugin-splashscreen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugins/cordova-plugin-statusbar/src/cordova-plugin-statusbar.iml" filepath="$PROJECT_DIR$/plugins/cordova-plugin-statusbar/src/cordova-plugin-statusbar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugins/cordova-plugin-whitelist/src/cordova-plugin-whitelist.iml" filepath="$PROJECT_DIR$/plugins/cordova-plugin-whitelist/src/cordova-plugin-whitelist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugins/cordova-plugin-zip/src/cordova-plugin-zip.iml" filepath="$PROJECT_DIR$/plugins/cordova-plugin-zip/src/cordova-plugin-zip.iml" />
+      <module fileurl="file://$PROJECT_DIR$/node_modules/appium/node_modules/io.appium.settings/io.appium.settings.iml" filepath="$PROJECT_DIR$/node_modules/appium/node_modules/io.appium.settings/io.appium.settings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugins/ionic-plugin-keyboard/src/ionic-plugin-keyboard.iml" filepath="$PROJECT_DIR$/plugins/ionic-plugin-keyboard/src/ionic-plugin-keyboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/node_modules/appium/node_modules/appium-uiautomator2-server/app/src/main/main.iml" filepath="$PROJECT_DIR$/node_modules/appium/node_modules/appium-uiautomator2-server/app/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/node_modules/appium/sample-code/examples/java/generic/src/main/main1.iml" filepath="$PROJECT_DIR$/node_modules/appium/sample-code/examples/java/generic/src/main/main1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugins/net.tunts.webintent/src/net.tunts.webintent.iml" filepath="$PROJECT_DIR$/plugins/net.tunts.webintent/src/net.tunts.webintent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugins/phonegap-plugin-push/src/phonegap-plugin-push.iml" filepath="$PROJECT_DIR$/plugins/phonegap-plugin-push/src/phonegap-plugin-push.iml" />
+      <module fileurl="file://$PROJECT_DIR$/platforms/android/cordova/node_modules/properties-parser/properties-parser.iml" filepath="$PROJECT_DIR$/platforms/android/cordova/node_modules/properties-parser/properties-parser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/platforms/android/build/generated/source/r/r.iml" filepath="$PROJECT_DIR$/platforms/android/build/generated/source/r/r.iml" />
+      <module fileurl="file://$PROJECT_DIR$/node_modules/appium/node_modules/appium-adb/test/fixtures/selendroid/selendroid.iml" filepath="$PROJECT_DIR$/node_modules/appium/node_modules/appium-adb/test/fixtures/selendroid/selendroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/node_modules/appium/sample-code/examples/java/generic/src/test/test.iml" filepath="$PROJECT_DIR$/node_modules/appium/sample-code/examples/java/generic/src/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/node_modules/appium/sample-code/examples/java/junit/src/test/test1.iml" filepath="$PROJECT_DIR$/node_modules/appium/sample-code/examples/java/junit/src/test/test1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugins/cordova-plugin-file/tests/src/tests.iml" filepath="$PROJECT_DIR$/plugins/cordova-plugin-file/tests/src/tests.iml" />
+    </modules>
+  </component>
+</project>

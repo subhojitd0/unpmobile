@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="AppiumBootstrap1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/node_modules/appium/node_modules/appium-android-bootstrap/bootstrap/bin/AppiumBootstrap.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

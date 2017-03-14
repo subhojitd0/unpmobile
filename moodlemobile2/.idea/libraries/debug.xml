@@ -1,0 +1,25 @@
+<component name="libraryTable">
+  <library name="debug">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/platforms/android/build/intermediates/pre-dexed/debug/me.leolin-ShortcutBadger-1.1.4_920f1690f0918b9b5fc563647df168de80e52fb5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/platforms/android/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.8.0_02b0ee2d68a9fe14c2ddcc4575171ae496ccf5a4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/platforms/android/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-iid-9.8.0_91dea2ffbfec2c5ebf644aa567e38cb1c7e3d31d.jar!/" />
+      <root url="jar://$PROJECT_DIR$/platforms/android/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.0_5201510a40d5266e99d9b4ca167bd83eef698f78.jar!/" />
+      <root url="jar://$PROJECT_DIR$/platforms/android/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.8.0_ab01ba930d70f1eece61f0fe16dd32e071c22fd9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/platforms/android/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gcm-9.8.0_a99820eecfb2c311a78bb9a52a0f5e3c80c3e322.jar!/" />
+      <root url="jar://$PROJECT_DIR$/platforms/android/build/intermediates/pre-dexed/debug/debug_cf03c9cb240280047f3fabde6612ea6f0f982508.jar!/" />
+      <root url="jar://$PROJECT_DIR$/platforms/android/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.8.0_ec08e4ddf98baef05ee6e439cc75f20e5595f90b.jar!/" />
+      <root url="jar://$PROJECT_DIR$/platforms/android/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.0_4fc88922b6bf9945897481f9d460a06edeede7d3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/platforms/android/build/intermediates/pre-dexed/debug/support-annotations-25.1.0_e68f25320cf79a1a6cf1d1e7f41857bae2c18a05.jar!/" />
+      <root url="jar://$PROJECT_DIR$/platforms/android/build/intermediates/pre-dexed/debug/com.android.support-support-v13-23.4.0_895c6c81bbfc5cf95c2071bbd3152954cd34b0ae.jar!/" />
+      <root url="jar://$PROJECT_DIR$/platforms/android/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.0_e0b2dd5d0cfafd3cadfa37dced4645ea8df9feb5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/platforms/android/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.0_dc48ee0b89248bf43fed5558d1b0f956082d95eb.jar!/" />
+      <root url="jar://$PROJECT_DIR$/platforms/android/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.0_217a7fc978cfdc101eb5124f7b799dfa973abe09.jar!/" />
+      <root url="jar://$PROJECT_DIR$/platforms/android/build/intermediates/pre-dexed/debug/CordovaLib-unspecified-debug_0b9fdccedfa1a3ef79594b757e017f2b5e849356.jar!/" />
+      <root url="jar://$PROJECT_DIR$/platforms/android/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.0_5d011a2187de632c52203389b1d4974e6cd3c1cc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/platforms/android/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_25bb67a56d4f706c878893ebe8c1353881725eb6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
