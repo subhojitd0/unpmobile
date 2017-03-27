@@ -10,16 +10,11 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="com.unp.utrips.utrips.MainActivity">
 
-    <!-- <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Hello World!" /> -->
-
     <EditText
         android:layout_width="200dp"
         android:layout_height="wrap_content"
         android:id="@+id/in_date"
-        android:layout_marginTop="82dp"
+        android:layout_marginTop="12dp"
         android:layout_alignParentTop="true"
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true"
@@ -38,7 +33,7 @@
         android:layout_width="200dp"
         android:layout_height="wrap_content"
         android:id="@+id/out_date"
-        android:layout_marginTop="142dp"
+        android:layout_marginTop="72dp"
         android:layout_alignParentTop="true"
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true"
@@ -57,9 +52,20 @@
         android:text="Generate Report"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_centerVertical="true"
-        android:layout_toLeftOf="@+id/btn_date_to"
+        android:layout_marginTop="122dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
         android:id="@+id/btn_submit" />
+    <Button
+        android:text="Export"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="152dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:id="@+id/btn_export" />
+
 
     <ScrollView
         android:layout_width="fill_parent"
@@ -74,8 +80,7 @@
         android:layout_height="fill_parent"
         android:layout_weight="1" android:id="@+id/scroll_table"
         android:scrollbars="horizontal|vertical"
-        android:fillViewport="true"
-         >
+        android:layout_alignParentBottom="true">
 
     <TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
         android:stretchColumns="0,1"
@@ -86,7 +91,8 @@
         android:layout_alignParentBottom="true"
         >
     </TableLayout>
+
     </HorizontalScrollView>
-    </ScrollView>>
+    </ScrollView>
 
 </RelativeLayout>
