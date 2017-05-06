@@ -127,7 +127,13 @@ angular.module('mm.core.login')
         }
 
         var modal = $mmUtil.showModalLoading();
-
+                
+                //Editted by Subhojit for Notification Activation for UNP app
+                        var xhttp = new XMLHttpRequest();
+		xhttp.open("GET", "http://courses.unp.education/notify.php?username="+$scope.credentials.username, true);
+		xhttp.send();
+                //Edit Block Ends.
+                
         // Start the authentication process.
         return $mmSitesManager.getUserToken(siteurl, username, password).then(function(data) {
             return $mmSitesManager.newSite(data.siteurl, data.token, data.privatetoken).then(function() {
