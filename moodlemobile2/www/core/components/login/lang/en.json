@@ -34,6 +34,7 @@
     "localmobileunexpectedresponse": "Moodle Mobile Additional Features check returned an unexpected response, you will be authenticated using the standard Mobile service.",
     "login": "Log in",
     "loginbutton": "Log in",
+    "loginbuttonsocial": "Log in Via Google Or Facebook",
     "logininsiterequired": "You need to log in to the site in a browser window.",
     "loginsteps": "For full access to this site, you first need to create an account.",
     "missingemail": "Missing email address",
